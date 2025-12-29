@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mujoco-js": "^0.0.7",
+    "three": "^0.182.0"
+  }
+}
